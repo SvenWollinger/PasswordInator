@@ -1,0 +1,12 @@
+<html>
+<ol>
+<li>Why is the maximum length 12?</li>
+<p>Having a password longer then 12 characters can be dangerous because it might crash databases</p>
+<br>
+<li>Why are all the passwords normal words?</li>
+<p>It makes them easier to remember</p>
+<br>
+<li>Why would i want to add numbers to my password?</li>
+<p>It makes them nearly uncrackable! (Unless you have a nasa super computer...)</p>
+</ol>
+</html>
